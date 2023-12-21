@@ -1,4 +1,4 @@
-# README for Doodlebug Simulation Program
+# Doodlebug Simulation Program
 
 ## Overview
 This Doodlebug Simulation Program is designed to simulate a basic ecosystem involving doodlebugs (predators) and ants (prey). It uses C++ and object-oriented programming principles to create an interactive grid world where organisms move, breed, eat, and die according to specific rules. 
